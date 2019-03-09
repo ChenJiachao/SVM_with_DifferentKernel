@@ -1,2 +1,3 @@
-
-
+SVM algorithm with Different Kernel for MNIST dataset
+The data file is a .mat file, retreived from
+http://yann.lecun.com/exdb/mnist/ 
